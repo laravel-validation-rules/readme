@@ -4,6 +4,11 @@ This organisation contains extra Rule classes that can be used with
 Laravel's validation engine.
 
 
+### Namespace
+
+To keep things consistent, please use the top level namespace `LVR`.
+
+
 ### Current Rules
 
  - [Timezone](https://github.com/laravel-validation-rules/timezone): validates a given timezone string. 
