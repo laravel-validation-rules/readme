@@ -17,6 +17,7 @@ repository for adding new rules, requesting Packagist additions and general ques
 
 - [Base64](https://github.com/laravel-validation-rules/base64)
 - [Latitude & Longitude](https://github.com/laravel-validation-rules/lat-lng)
+- [Credit Cards](https://github.com/laravel-validation-rules/credit-card)
 
 ### Security
 
